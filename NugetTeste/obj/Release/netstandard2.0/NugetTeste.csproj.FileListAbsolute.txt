@@ -1,0 +1,9 @@
+C:\Users\familia\Documents\Visual Studio 2017\Projects\BibliotecaTeste\NugetTeste\bin\Release\netstandard2.0\NugetTeste.deps.json
+C:\Users\familia\Documents\Visual Studio 2017\Projects\BibliotecaTeste\NugetTeste\bin\Release\netstandard2.0\NugetTeste.dll
+C:\Users\familia\Documents\Visual Studio 2017\Projects\BibliotecaTeste\NugetTeste\bin\Release\netstandard2.0\NugetTeste.pdb
+C:\Users\familia\Documents\Visual Studio 2017\Projects\BibliotecaTeste\NugetTeste\obj\Release\netstandard2.0\NugetTeste.csprojResolveAssemblyReference.cache
+C:\Users\familia\Documents\Visual Studio 2017\Projects\BibliotecaTeste\NugetTeste\obj\Release\netstandard2.0\NugetTeste.csproj.CoreCompileInputs.cache
+C:\Users\familia\Documents\Visual Studio 2017\Projects\BibliotecaTeste\NugetTeste\obj\Release\netstandard2.0\NugetTeste.AssemblyInfoInputs.cache
+C:\Users\familia\Documents\Visual Studio 2017\Projects\BibliotecaTeste\NugetTeste\obj\Release\netstandard2.0\NugetTeste.AssemblyInfo.cs
+C:\Users\familia\Documents\Visual Studio 2017\Projects\BibliotecaTeste\NugetTeste\obj\Release\netstandard2.0\NugetTeste.dll
+C:\Users\familia\Documents\Visual Studio 2017\Projects\BibliotecaTeste\NugetTeste\obj\Release\netstandard2.0\NugetTeste.pdb
